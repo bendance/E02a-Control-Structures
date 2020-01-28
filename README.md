@@ -75,7 +75,6 @@
      
  - *Extra credit:* open main11.py. What is happening on lines 6-11?
      In lines 6-11, the game is making it so that the last chosen color is not picked as a random color again.
-     
-Commit your changes and push them back to the repository.
+    
  
 
